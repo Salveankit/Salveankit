@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Science Enthusiast from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=salveankit&label=Profile%20views&color=0e75b6&style=flat" alt="salveankit" /> </p>
-
+ 
 <img align="right" alt="coding" width= "500" src="http://vandvtechnologies.com/wp-content/uploads/2022/05/digital-marketing-company.gif">
 
 - 🌱 I’m currently learning **Data Science**
