@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankit Salve</h1>
 <h3 align="center">A passionate Data Science Enthusiast from India</h3>
-<img align="right" alt="coding" width= "800" src="https://www.cloudyml.com/wp-content/uploads/2022/06/data-analytics-services-image.gif">
+<img align="right" alt="coding" width= "500" src="https://www.cloudyml.com/wp-content/uploads/2022/06/data-analytics-services-image.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salveankit&label=Profile%20views&color=0e75b6&style=flat" alt="salveankit" /> </p>
 
