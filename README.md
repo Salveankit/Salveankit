@@ -1,4 +1,4 @@
-![logo](https://github.com/Salveankit/Salveankit/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png)
+![logo](https://github.com/Salveankit/Salveankit/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.gif)
 <h1 align="center">Hi 👋, I'm Ankit Salve</h1>
 <h3 align="center">A passionate Data Science Enthusiast from India</h3>
 
