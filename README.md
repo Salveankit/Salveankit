@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **salve2611@gmail.com**
 
-- ⚡ Fun fact **🎲 Rubix cube ❤**
+- ⚡ Fun fact **🎲Love solving Rubix cube ❤**
 
 
 <h3 align="left">Connect with me:</h3>
