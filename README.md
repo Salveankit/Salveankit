@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankit Salve</h1>
 <h3 align="center">A passionate Data Science Enthusiast from India</h3>
 
-<img align="right"alt="coding"width="400"src='https://www.cloudyml.com/wp-content/uploads/2022/06/data-analytics-services-image.gif>
+<img align="right"alt="coding"width=" 400"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cloudyml.com%2Fblog%2Fdistinction-between-data-science-ml-and-artificial-intelligence%2F&psig=AOvVaw1mKWEfYtXH1PhJbN6xpX3t&ust=1680943242343000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCICAktKvl_4CFQAAAAAdAAAAABAE">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salveankit&label=Profile%20views&color=0e75b6&style=flat" alt="salveankit" /> </p>
 
