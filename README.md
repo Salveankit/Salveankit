@@ -1,4 +1,5 @@
-![Logo](White Minimalist Profile LinkedIn Banner.png)
+![My Logo](https://github.com/Salveankit/Salveankit/blob/b7a3b8ff1db04bb5e8d200c087d75950f8080c08/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
+
 
 <h1 align="center">Hi 👋, I'm Ankit Salve</h1>
 <h3 align="center">A passionate Data Science Enthusiast from India</h3>
