@@ -1,4 +1,4 @@
-![My Logo](https://github.com/Salveankit/Salveankit/blob/f32bf088bdc0b45b443ee079bbd3d52064925022/a.jpg)
+![My Logo](https://drive.google.com/file/d/137c1KQpMplrj1ipOxpO8QdJ-IvowWLrk/view?usp=sharing)
 
 
 <h1 align="center">Hi 👋, I'm Ankit Salve</h1>
