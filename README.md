@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Salve</h1>
-<h3 align="center">A passionate Data Science Enthusiast from India</h3>
+<h3 align="center">A passionate Data Scientist from India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=salveankit&label=Profile%20views&color=0e75b6&style=flat" alt="salveankit" />
@@ -7,7 +7,7 @@
 
 <img align="right" alt="coding" width="500" src="http://vandvtechnologies.com/wp-content/uploads/2022/05/digital-marketing-company.gif">
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data**
 
 - 📫 How to reach me: [salve2611@gmail.com](mailto:salve2611@gmail.com)
 
